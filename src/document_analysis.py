@@ -10,10 +10,12 @@ class DocumentAnalysisEngine:
         print(f"Reading document: {pdf_path}")
 
         blueprint = {
-            "title": "Unknown",
-            "subject": "Unknown",
-            "language": "Unknown"
-        }
+    "title": "...",
+    "pages": ...,
+    "subject": "...",
+    "language": "...",
+    "author": "...",
+}
 
         print("Document Blueprint Created.")
 
